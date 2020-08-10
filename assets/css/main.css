@@ -1526,7 +1526,11 @@ input, select, textarea {
 			
 		}
 
-		
+			@media screen and (min-width: 1050px) {
+					#center {
+							left: 25%;
+					}
+				}
 
 			
 
